@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Лаб9\MyClass\Bibl\bin\Debug\Bibl.dll
+C:\Users\User\Desktop\Лаб9\MyClass\Bibl\bin\Debug\Bibl.pdb
+C:\Users\User\Desktop\Лаб9\MyClass\Bibl\obj\Debug\Bibl.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Лаб9\MyClass\Bibl\obj\Debug\Bibl.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Лаб9\MyClass\Bibl\obj\Debug\Bibl.dll
+C:\Users\User\Desktop\Лаб9\MyClass\Bibl\obj\Debug\Bibl.pdb

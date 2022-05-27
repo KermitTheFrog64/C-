@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Лаб5\MatrixMultiply\MatrixMultiply\bin\Debug\netcoreapp3.1\MatrixMultiply.exe
+C:\Users\User\Desktop\Лаб5\MatrixMultiply\MatrixMultiply\bin\Debug\netcoreapp3.1\MatrixMultiply.deps.json
+C:\Users\User\Desktop\Лаб5\MatrixMultiply\MatrixMultiply\bin\Debug\netcoreapp3.1\MatrixMultiply.runtimeconfig.json
+C:\Users\User\Desktop\Лаб5\MatrixMultiply\MatrixMultiply\bin\Debug\netcoreapp3.1\MatrixMultiply.runtimeconfig.dev.json
+C:\Users\User\Desktop\Лаб5\MatrixMultiply\MatrixMultiply\bin\Debug\netcoreapp3.1\MatrixMultiply.dll
+C:\Users\User\Desktop\Лаб5\MatrixMultiply\MatrixMultiply\bin\Debug\netcoreapp3.1\MatrixMultiply.pdb
+C:\Users\User\Desktop\Лаб5\MatrixMultiply\MatrixMultiply\obj\Debug\netcoreapp3.1\MatrixMultiply.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Лаб5\MatrixMultiply\MatrixMultiply\obj\Debug\netcoreapp3.1\MatrixMultiply.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Лаб5\MatrixMultiply\MatrixMultiply\obj\Debug\netcoreapp3.1\MatrixMultiply.AssemblyInfo.cs
+C:\Users\User\Desktop\Лаб5\MatrixMultiply\MatrixMultiply\obj\Debug\netcoreapp3.1\MatrixMultiply.dll
+C:\Users\User\Desktop\Лаб5\MatrixMultiply\MatrixMultiply\obj\Debug\netcoreapp3.1\MatrixMultiply.pdb

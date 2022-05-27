@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\ДЗ\StudyCenter\StudyCenter\bin\Debug\netcoreapp3.1\StudyCenter.exe
+C:\Users\User\Desktop\ДЗ\StudyCenter\StudyCenter\bin\Debug\netcoreapp3.1\StudyCenter.deps.json
+C:\Users\User\Desktop\ДЗ\StudyCenter\StudyCenter\bin\Debug\netcoreapp3.1\StudyCenter.runtimeconfig.json
+C:\Users\User\Desktop\ДЗ\StudyCenter\StudyCenter\bin\Debug\netcoreapp3.1\StudyCenter.runtimeconfig.dev.json
+C:\Users\User\Desktop\ДЗ\StudyCenter\StudyCenter\bin\Debug\netcoreapp3.1\StudyCenter.dll
+C:\Users\User\Desktop\ДЗ\StudyCenter\StudyCenter\bin\Debug\netcoreapp3.1\StudyCenter.pdb
+C:\Users\User\Desktop\ДЗ\StudyCenter\StudyCenter\obj\Debug\netcoreapp3.1\StudyCenter.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ДЗ\StudyCenter\StudyCenter\obj\Debug\netcoreapp3.1\StudyCenter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ДЗ\StudyCenter\StudyCenter\obj\Debug\netcoreapp3.1\StudyCenter.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ДЗ\StudyCenter\StudyCenter\obj\Debug\netcoreapp3.1\StudyCenter.AssemblyInfo.cs
+C:\Users\User\Desktop\ДЗ\StudyCenter\StudyCenter\obj\Debug\netcoreapp3.1\StudyCenter.dll
+C:\Users\User\Desktop\ДЗ\StudyCenter\StudyCenter\obj\Debug\netcoreapp3.1\StudyCenter.pdb
+C:\Users\User\Desktop\ДЗ\StudyCenter\StudyCenter\obj\Debug\netcoreapp3.1\StudyCenter.genruntimeconfig.cache
+C:\Users\User\Desktop\ДЗ\StudyCenter\StudyCenter\bin\Debug\netcoreapp3.1\SC.dll
+C:\Users\User\Desktop\ДЗ\StudyCenter\StudyCenter\bin\Debug\netcoreapp3.1\SC.pdb
+C:\Users\User\Desktop\ДЗ\StudyCenter\StudyCenter\obj\Debug\netcoreapp3.1\StudyCenter.csproj.CopyComplete

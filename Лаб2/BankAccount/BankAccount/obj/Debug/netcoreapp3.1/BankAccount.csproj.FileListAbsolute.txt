@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Лаб2\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.exe
+C:\Users\User\Desktop\Лаб2\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.deps.json
+C:\Users\User\Desktop\Лаб2\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.json
+C:\Users\User\Desktop\Лаб2\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.dev.json
+C:\Users\User\Desktop\Лаб2\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.dll
+C:\Users\User\Desktop\Лаб2\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.pdb
+C:\Users\User\Desktop\Лаб2\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Лаб2\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Лаб2\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfo.cs
+C:\Users\User\Desktop\Лаб2\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.dll
+C:\Users\User\Desktop\Лаб2\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.pdb

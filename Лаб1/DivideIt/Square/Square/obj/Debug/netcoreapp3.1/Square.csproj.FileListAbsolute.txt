@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Лаб1\DivideIt\Square\Square\bin\Debug\netcoreapp3.1\Square.exe
+C:\Users\User\Desktop\Лаб1\DivideIt\Square\Square\bin\Debug\netcoreapp3.1\Square.deps.json
+C:\Users\User\Desktop\Лаб1\DivideIt\Square\Square\bin\Debug\netcoreapp3.1\Square.runtimeconfig.json
+C:\Users\User\Desktop\Лаб1\DivideIt\Square\Square\bin\Debug\netcoreapp3.1\Square.runtimeconfig.dev.json
+C:\Users\User\Desktop\Лаб1\DivideIt\Square\Square\bin\Debug\netcoreapp3.1\Square.dll
+C:\Users\User\Desktop\Лаб1\DivideIt\Square\Square\bin\Debug\netcoreapp3.1\Square.pdb
+C:\Users\User\Desktop\Лаб1\DivideIt\Square\Square\obj\Debug\netcoreapp3.1\Square.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Лаб1\DivideIt\Square\Square\obj\Debug\netcoreapp3.1\Square.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Лаб1\DivideIt\Square\Square\obj\Debug\netcoreapp3.1\Square.AssemblyInfo.cs
+C:\Users\User\Desktop\Лаб1\DivideIt\Square\Square\obj\Debug\netcoreapp3.1\Square.dll
+C:\Users\User\Desktop\Лаб1\DivideIt\Square\Square\obj\Debug\netcoreapp3.1\Square.pdb

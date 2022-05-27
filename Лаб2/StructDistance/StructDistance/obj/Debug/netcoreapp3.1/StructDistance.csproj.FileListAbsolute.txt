@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Лаб2\StructDistance\StructDistance\bin\Debug\netcoreapp3.1\StructDistance.exe
+C:\Users\User\Desktop\Лаб2\StructDistance\StructDistance\bin\Debug\netcoreapp3.1\StructDistance.deps.json
+C:\Users\User\Desktop\Лаб2\StructDistance\StructDistance\bin\Debug\netcoreapp3.1\StructDistance.runtimeconfig.json
+C:\Users\User\Desktop\Лаб2\StructDistance\StructDistance\bin\Debug\netcoreapp3.1\StructDistance.runtimeconfig.dev.json
+C:\Users\User\Desktop\Лаб2\StructDistance\StructDistance\bin\Debug\netcoreapp3.1\StructDistance.dll
+C:\Users\User\Desktop\Лаб2\StructDistance\StructDistance\bin\Debug\netcoreapp3.1\StructDistance.pdb
+C:\Users\User\Desktop\Лаб2\StructDistance\StructDistance\obj\Debug\netcoreapp3.1\StructDistance.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Лаб2\StructDistance\StructDistance\obj\Debug\netcoreapp3.1\StructDistance.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Лаб2\StructDistance\StructDistance\obj\Debug\netcoreapp3.1\StructDistance.AssemblyInfo.cs
+C:\Users\User\Desktop\Лаб2\StructDistance\StructDistance\obj\Debug\netcoreapp3.1\StructDistance.dll
+C:\Users\User\Desktop\Лаб2\StructDistance\StructDistance\obj\Debug\netcoreapp3.1\StructDistance.pdb

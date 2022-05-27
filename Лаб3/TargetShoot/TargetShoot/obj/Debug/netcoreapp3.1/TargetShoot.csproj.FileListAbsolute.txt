@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Лаб3\TargetShoot\TargetShoot\bin\Debug\netcoreapp3.1\TargetShoot.exe
+C:\Users\User\Desktop\Лаб3\TargetShoot\TargetShoot\bin\Debug\netcoreapp3.1\TargetShoot.deps.json
+C:\Users\User\Desktop\Лаб3\TargetShoot\TargetShoot\bin\Debug\netcoreapp3.1\TargetShoot.runtimeconfig.json
+C:\Users\User\Desktop\Лаб3\TargetShoot\TargetShoot\bin\Debug\netcoreapp3.1\TargetShoot.runtimeconfig.dev.json
+C:\Users\User\Desktop\Лаб3\TargetShoot\TargetShoot\bin\Debug\netcoreapp3.1\TargetShoot.dll
+C:\Users\User\Desktop\Лаб3\TargetShoot\TargetShoot\bin\Debug\netcoreapp3.1\TargetShoot.pdb
+C:\Users\User\Desktop\Лаб3\TargetShoot\TargetShoot\obj\Debug\netcoreapp3.1\TargetShoot.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Лаб3\TargetShoot\TargetShoot\obj\Debug\netcoreapp3.1\TargetShoot.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Лаб3\TargetShoot\TargetShoot\obj\Debug\netcoreapp3.1\TargetShoot.AssemblyInfo.cs
+C:\Users\User\Desktop\Лаб3\TargetShoot\TargetShoot\obj\Debug\netcoreapp3.1\TargetShoot.dll
+C:\Users\User\Desktop\Лаб3\TargetShoot\TargetShoot\obj\Debug\netcoreapp3.1\TargetShoot.pdb

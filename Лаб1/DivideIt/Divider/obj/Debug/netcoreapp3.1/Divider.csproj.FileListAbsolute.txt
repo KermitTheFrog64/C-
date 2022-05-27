@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Лаб1\DivideIt\Divider\bin\Debug\netcoreapp3.1\Divider.exe
+C:\Users\User\Desktop\Лаб1\DivideIt\Divider\bin\Debug\netcoreapp3.1\Divider.deps.json
+C:\Users\User\Desktop\Лаб1\DivideIt\Divider\bin\Debug\netcoreapp3.1\Divider.runtimeconfig.json
+C:\Users\User\Desktop\Лаб1\DivideIt\Divider\bin\Debug\netcoreapp3.1\Divider.runtimeconfig.dev.json
+C:\Users\User\Desktop\Лаб1\DivideIt\Divider\bin\Debug\netcoreapp3.1\Divider.dll
+C:\Users\User\Desktop\Лаб1\DivideIt\Divider\bin\Debug\netcoreapp3.1\Divider.pdb
+C:\Users\User\Desktop\Лаб1\DivideIt\Divider\obj\Debug\netcoreapp3.1\Divider.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Лаб1\DivideIt\Divider\obj\Debug\netcoreapp3.1\Divider.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Лаб1\DivideIt\Divider\obj\Debug\netcoreapp3.1\Divider.AssemblyInfo.cs
+C:\Users\User\Desktop\Лаб1\DivideIt\Divider\obj\Debug\netcoreapp3.1\Divider.dll
+C:\Users\User\Desktop\Лаб1\DivideIt\Divider\obj\Debug\netcoreapp3.1\Divider.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Лаб3\Calc_switch\Calc_switch\bin\Debug\netcoreapp3.1\Calc_switch.exe
+C:\Users\User\Desktop\Лаб3\Calc_switch\Calc_switch\bin\Debug\netcoreapp3.1\Calc_switch.deps.json
+C:\Users\User\Desktop\Лаб3\Calc_switch\Calc_switch\bin\Debug\netcoreapp3.1\Calc_switch.runtimeconfig.json
+C:\Users\User\Desktop\Лаб3\Calc_switch\Calc_switch\bin\Debug\netcoreapp3.1\Calc_switch.runtimeconfig.dev.json
+C:\Users\User\Desktop\Лаб3\Calc_switch\Calc_switch\bin\Debug\netcoreapp3.1\Calc_switch.dll
+C:\Users\User\Desktop\Лаб3\Calc_switch\Calc_switch\bin\Debug\netcoreapp3.1\Calc_switch.pdb
+C:\Users\User\Desktop\Лаб3\Calc_switch\Calc_switch\obj\Debug\netcoreapp3.1\Calc_switch.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Лаб3\Calc_switch\Calc_switch\obj\Debug\netcoreapp3.1\Calc_switch.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Лаб3\Calc_switch\Calc_switch\obj\Debug\netcoreapp3.1\Calc_switch.AssemblyInfo.cs
+C:\Users\User\Desktop\Лаб3\Calc_switch\Calc_switch\obj\Debug\netcoreapp3.1\Calc_switch.dll
+C:\Users\User\Desktop\Лаб3\Calc_switch\Calc_switch\obj\Debug\netcoreapp3.1\Calc_switch.pdb

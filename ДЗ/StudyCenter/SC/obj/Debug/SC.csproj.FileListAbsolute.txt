@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\ДЗ\StudyCenter\SC\obj\Debug\SC.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ДЗ\StudyCenter\SC\obj\Debug\SC.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ДЗ\StudyCenter\SC\bin\Debug\SC.dll
+C:\Users\User\Desktop\ДЗ\StudyCenter\SC\bin\Debug\SC.pdb
+C:\Users\User\Desktop\ДЗ\StudyCenter\SC\obj\Debug\SC.dll
+C:\Users\User\Desktop\ДЗ\StudyCenter\SC\obj\Debug\SC.pdb
